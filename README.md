@@ -19,20 +19,6 @@ NEBULA is a simple browser-based voice assistant built using HTML, CSS, and Java
 
 ![image](https://github.com/user-attachments/assets/ab146b30-3376-421b-8d4c-b45f4a1922c4)
 
-
-
-
-## 📂 Project Structure
-
-project-folder/
-│
-├── index.html # Main user interface
-├── ai.css # Styling and layout
-├── ai.js # Voice command logic
-├── ai.gif # Assistant animation
-
----
-
 ## 🚀 How to Use
 
 1. **Download or clone** the repository.
@@ -43,13 +29,13 @@ project-folder/
 
 ## 🧠 Example Commands
 
-- `Open Google`
-- `Open YouTube`
-- `What is machine learning?`
-- `Wikipedia Elon Musk`
-- `What's the time?`
-- `What's the date?`
-- `Hello` / `Hey`
+- Open Google
+- Open YouTube
+- What is machine learning?
+- Wikipedia Elon Musk
+- What's the time?
+- What's the date?
+- Hello / Hey
 
 ---
 
