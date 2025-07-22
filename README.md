@@ -2,7 +2,7 @@
 
 NEBULA is a simple browser-based voice assistant built using HTML, CSS, and JavaScript. It leverages the Web Speech API to enable speech recognition and synthesis, allowing users to interact using natural voice commands.
 
----
+
 
 ## 🔥 Features
 
@@ -13,7 +13,7 @@ NEBULA is a simple browser-based voice assistant built using HTML, CSS, and Java
 - 🙋 **Friendly Greetings** – Greets based on the current time (Morning, Afternoon, Evening).
 - 🖼️ **Animated, Styled UI** – Sleek design using custom CSS, fonts, and a visual assistant.
 
----
+
 
 ## 📸 Preview
 
@@ -25,7 +25,7 @@ NEBULA is a simple browser-based voice assistant built using HTML, CSS, and Java
 2. Open `index.html` in **Google Chrome** (recommended).
 3. Click the microphone button and speak your command.
 
----
+
 
 ## 🧠 Example Commands
 
@@ -37,7 +37,7 @@ NEBULA is a simple browser-based voice assistant built using HTML, CSS, and Java
 - What's the date?
 - Hello / Hey
 
----
+
 
 
 ## 🤝 Contributions
