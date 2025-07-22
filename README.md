@@ -40,5 +40,17 @@ NEBULA is a simple browser-based voice assistant built using HTML, CSS, and Java
 ---
 
 
+## 🤝 Contributions
+We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
+
+## 📧 Contact
+**Developer**: Vaibhav
+
+**Email**: sahuvaibhav064@gmail.com
+
+**LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
+
+## 📜 License
+MIT License © 2025 Vaibhav
 
 
